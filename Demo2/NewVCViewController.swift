@@ -16,6 +16,7 @@ class NewVCViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("New VC Added")
         print("New Branch added!!")
+        print("Hi")
     }
     
 
