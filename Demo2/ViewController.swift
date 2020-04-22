@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         print("Hello")
     }
 
+    func addedNewFunc() {
+        print("this is New function.")
+    }
 
 }
 
